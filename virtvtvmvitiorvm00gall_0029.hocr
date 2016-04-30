@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./virtvtvmvitiorvm00gall_0029.png"; bbox 0 0 2211 3021; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 448 576 1756 2238">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 448 576 1756 2238">
+     <span class='ocr_line' id='line_1_1' title="bbox 448 576 1756 2238; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 448 576 1756 2238; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 580 2246 1584 2388">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 580 2246 1584 2388">
+     <span class='ocr_line' id='line_1_2' title="bbox 580 2246 1584 2313; baseline -0.005 -17"><span class='ocrx_word' id='word_1_2' title='bbox 580 2251 679 2296; x_wconf 70' lang='lat' dir='ltr'><em>Nos</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 713 2246 846 2298; x_wconf 41' lang='lat' dir='ltr'><em>[beust</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 880 2269 1021 2296; x_wconf 57' lang='lat' dir='ltr'><em>morum</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1048 2266 1149 2313; x_wconf 66' lang='lat' dir='ltr'><em>pam</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1178 2258 1228 2293; x_wconf 72' lang='lat' dir='ltr'><em>lm</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1250 2261 1383 2293; x_wconf 64' lang='lat' dir='ltr'><em>amm)-</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1425 2264 1584 2294; x_wconf 66' lang='lat' dir='ltr'><em>amtorem,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 652 2305 1563 2388; baseline -0.008 -27"><span class='ocrx_word' id='word_1_9' title='bbox 652 2316 763 2363; x_wconf 79' lang='lat' dir='ltr'><em>Cum</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 803 2319 928 2360; x_wconf 67' lang='lat' dir='ltr'><em>morsi</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 961 2316 1098 2359; x_wconf 72' lang='lat' dir='ltr'><em>mffum</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1136 2305 1309 2360; x_wconf 50' lang='lat' dir='ltr'><em>tradat}</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1349 2315 1563 2388; x_wconf 57' lang='lat' dir='ltr'><em>vnjqenum:</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
